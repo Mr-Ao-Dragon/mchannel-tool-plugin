@@ -1,0 +1,2 @@
+ws-uri : ws://localhost:8080/expand-websocket
+hint : 你好，请在qq频道内的机器人认证频道说出 /mctbind [code] 完成绑定。
